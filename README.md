@@ -7,7 +7,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 ## How to reach me:
 📫  admgrac@gmail.com
 ## Languages and Tools:
-C++ / C / Python / MATLAB / Linux / MySQL / Microsoft SQL Server / Oracle / MS Excel / Git / Microsoft Visual Studio / Visual Studio Code / HTML / Markdown / LATEX
+C++ / C / Python / MATLAB / Linux / Bash / MySQL / Microsoft SQL Server / Oracle / MS Excel / Git / Microsoft Visual Studio / Visual Studio Code / HTML / Markdown / LATEX
 
 
 ![random-quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

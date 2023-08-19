@@ -4,6 +4,11 @@ I’m a passionate student of Computer Science at the Faculty of Mathematics and
 I’m really keen on learning new skills and tools that could possibly help my on my IT journey. \
 In my spare time I enjoy running 🏃‍♂️, swimming 🏊‍♂️ and learning foreign languages. \
 On top of that, I love reading books 📚 (lots of them every year 😄).
+
+<p align="center">
+  <img style="width: 50%" src="readme-banner.gif" alt="README Banner"/>
+</p>
+
 ## How to reach me:
 📫  admgrac@gmail.com
 ## Languages and Tools:

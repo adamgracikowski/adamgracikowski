@@ -5,6 +5,10 @@ I’m really keen on learning new skills and tools that could possibly help me o
 In my spare time I enjoy running 🏃‍♂️, swimming 🏊‍♂️ and learning foreign languages. \
 On top of that, I love reading books 📚 (lots of them every year 😄).
 
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&theme=vue-darky&layout=compact&hide_border=true" />
+</a>
+
 <p align="center">
   <img style="width: 50%" src="readme-banner.gif" alt="README Banner"/>
 </p>
@@ -14,9 +18,13 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 ## Languages and Tools:
 C++ / C / Linux / Bash / AWK / Python / MATLAB / MySQL / Microsoft SQL Server / MS Excel / Git / Microsoft Visual Studio / Visual Studio Code / HTML / Markdown / LATEX
 
-![random-quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<p align="center"> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="README quote" />
+</p>
 
 <p align="center"> 
   Visitors Counter<br>
-  <img src="https://profile-counter.glitch.me/adamgracikowski/count.svg" />
+  <img src="https://profile-counter.glitch.me/adamgracikowski/count.svg" alt="README visitors counter"/>
 </p>

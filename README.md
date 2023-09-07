@@ -17,7 +17,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 </p>
 
 ## Languages and Tools:
-C++ / C / Linux / Bash / AWK / Python / MATLAB / MySQL / Microsoft SQL Server / MS Excel / Git / Microsoft Visual Studio / Visual Studio Code / HTML / Markdown / LATEX
+C#/ C++ / C / Linux / Bash / AWK / MATLAB / MySQL / Microsoft SQL Server / MS Excel / Git / Microsoft Visual Studio / Visual Studio Code / WPF / XAML / HTML / Markdown / LATEX
 
 <p align="center"> 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="README quote" />

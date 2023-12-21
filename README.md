@@ -6,7 +6,7 @@ In my spare time I enjoy running 🏃‍♂️, swimming 🏊‍♂️ and learn
 On top of that, I love reading books 📚 (lots of them every year 😄).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&theme=dark&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&theme=dark&layout=compact&hide_border=true" />
 </p>
 
 ## How to reach me:
@@ -17,7 +17,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 </p>
 
 ## Languages and Tools:
-C# / C++ / C / Linux / Bash / AWK / MATLAB / MySQL / Microsoft SQL Server / MS Excel / Git / Microsoft Visual Studio / Visual Studio Code / WPF / XAML / HTML / Markdown / LATEX
+C# / C++ / C / Linux / Bash / AWK / MATLAB / MySQL / MS Excel / Git / Microsoft Visual Studio / Visual Studio Code / WPF / XAML / HTML / Markdown / LATEX
 
 <p align="center"> 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="README quote" />

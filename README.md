@@ -12,9 +12,10 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 ## How to reach me:
 📫  admgrac@gmail.com
 
-<p align="center">
+<!-- <p align="center">
   <img style="width: 50%" src="readme-banner.gif" alt="README Banner"/>
 </p>
+-->
 
 ## Languages and Tools:
 C# / C++ / C / Linux / Bash / AWK / MATLAB / MySQL / MS Excel / Git / Microsoft Visual Studio / Visual Studio Code / WPF / XAML / HTML / Markdown / LATEX

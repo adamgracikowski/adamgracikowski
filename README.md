@@ -1,7 +1,6 @@
 # Hi 👋, I'm Adam 
 ## About me:
-I’m a passionate student of Computer Science at the Faculty of Mathematics and Information Sciences at Warsaw University of Technology. \
-I’m really keen on learning new skills and tools that could possibly help me on my IT journey. \
+I’m a student of Computer Science at the Faculty of Mathematics and Information Sciences at Warsaw University of Technology. \
 In my spare time I enjoy running 🏃‍♂️, swimming 🏊‍♂️ and learning foreign languages. \
 On top of that, I love reading books 📚 (lots of them every year 😄).
 

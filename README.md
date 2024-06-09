@@ -5,7 +5,7 @@ In my spare time I enjoy running 🏃‍♂️, swimming 🏊‍♂️ and learn
 On top of that, I love reading books 📚 (lots of them every year 😄).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&theme=dark&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&langs_count=8&theme=light&layout=compact&hide_border=true" />
 </p>
 
 ## How to reach me:
@@ -19,10 +19,11 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 ## Languages and Tools:
 C# / C++ / C / Linux / Bash / AWK / MATLAB / MySQL / TSQL / Microsoft SQL Server Management Studio / MS Excel / Git / Microsoft Visual Studio / Visual Studio Code / WPF / XAML / HTML / Markdown / LATEX
 
+<!--
 <p align="center"> 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="README quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=false" alt="README quote" />
 </p>
-
+-->
 <p align="center"> 
   Visitors Counter<br>
   <img src="https://profile-counter.glitch.me/adamgracikowski/count.svg" alt="README visitors counter"/>

@@ -64,7 +64,8 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 
 ## How to reach me:
 📫  admgrac@gmail.com
-
+<!--
 <p align="center">
   <img style="width: 50%" src="readme-banner.gif" alt="README Banner"/>
 </p>
+-->

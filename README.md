@@ -8,6 +8,10 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&langs_count=10&theme=light&layout=compact&hide_border=true" />
 </p>
 
+## Leetcode:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/_adgrac?theme=light&font=BenchNine)
+
 ## Languages and Tools:
 
 <div align="center">

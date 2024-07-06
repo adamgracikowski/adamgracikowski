@@ -5,7 +5,7 @@ In my spare time I enjoy running 🏃‍♂️, swimming 🏊‍♂️ and learn
 On top of that, I love reading books 📚 (lots of them every year 😄).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&langs_count=10&theme=light&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&langs_count=10&theme=light&layout=compact&hide_border=false" />
 </p>
 
 ## Leetcode:

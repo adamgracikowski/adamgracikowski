@@ -1,14 +1,20 @@
 # Hi 👋, I'm Adam 
 ## About me:
-I’m a student of Computer Science at the Faculty of Mathematics and Information Sciences at Warsaw University of Technology. \
+I’m a student of Computer Science and Information Systems at the Faculty of Mathematics and Information Sciences at Warsaw University of Technology.
+
 In my spare time I enjoy running 🏃‍♂️, swimming 🏊‍♂️ and learning foreign languages. \
 On top of that, I love reading books 📚 (lots of them every year 😄).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&langs_count=10&theme=light&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adamgracikowski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamgracikowski&theme=vue-dark&hide_border=true" />
 </p>
 
 ## Languages and Tools
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&langs_count=10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
 
 ### Backend
 

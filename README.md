@@ -7,7 +7,6 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adamgracikowski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamgracikowski&theme=vue-dark&hide_border=true" />
 </p>
 
 ## Languages and Tools

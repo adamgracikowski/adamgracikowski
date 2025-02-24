@@ -9,34 +9,34 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
   <img src="https://github-readme-stats.vercel.app/api?username=adamgracikowski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
-## Languages and Tools
+## Languages and Tools:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&langs_count=10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
-### Backend
+### Backend:
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,bash,linux,r,matlab,redis,mysql,sqlite&perline=12" />
 </a>
 
-### Frontend
+### Frontend:
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,ts,angular,tailwind,figma&perline=10" />
 </a>
 
-### Tools
+### Other:
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,azure,postman&perline=10" />
 </a>
 
-### Currently I'm learning
+### Currently I'm learning:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,docker&perline=10" />
 </a>
 
 ## How to reach me:

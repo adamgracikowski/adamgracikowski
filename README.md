@@ -18,7 +18,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 ### Backend:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,bash,linux,r,matlab,redis,mysql,sqlite&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,bash,linux,r,matlab,redis,mysql,sqlite&perline=6" />
 </a>
 
 ### Frontend:

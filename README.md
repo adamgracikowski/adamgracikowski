@@ -36,7 +36,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 ### Currently I'm learning:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=rust,flutter,dart,firebase,docker&perline=10" />
 </a>
 
 ## How to reach me:

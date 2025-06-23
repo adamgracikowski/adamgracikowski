@@ -24,7 +24,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 ### Frontend:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,html,css,ts,angular,tailwind,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,angular,tailwind,figma&perline=10" />
 </a>
 
 ### Mobile:

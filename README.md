@@ -15,7 +15,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
 | [PayUpPal](https://github.com/adamgracikowski/PayUpPal) | Modern, full-stack mobile app that makes group expense sharing effortless. Create groups, add expenses, and let its smart debt-minimization algorithm simplify settlements | Flutter, Dart, Firebase Authentication, ASP .NET Core, SQL Server, Microsoft Azure |
-| [NeuroSpeech](https://github.com/adamgracikowski/NeuroSpeech/tree/main) | Project for the Introduction to Machine Learning academic course. It uses a Convolutional Neural Network (CNN) to recognize spoken words from WAV audio recordings | Python, PyTorch, NumGPy, radio, Poetry |
+| [NeuroSpeech](https://github.com/adamgracikowski/NeuroSpeech/tree/main) | Project for the Introduction to Machine Learning academic course. It uses a Convolutional Neural Network (CNN) to recognize spoken words from WAV audio recordings | Python, PyTorch, NumPy, Gradio, Poetry |
 | [GASudokuSolver](https://github.com/adamgracikowski/GASudokuSolver) | Sudoku solver based on genetic algorithms, with modular customizations of key components of the algorithm | WPF, SkiaSharp, C# |
 | [CarRental](https://github.com/adamgracikowski/CarRental) | Full-stack car rental platform that aggregates rental offers from multiple providers. It features a price comparison tool, allowing users to find the best deals. The app integrates with third-party supplier APIs to fetch real-time availability and pricing | Blazor WebAssembly, MudBlazor, Google Maps, ASP .NET Core, SQL Server, Microsoft Azure, SendGrid |
 

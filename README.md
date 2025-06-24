@@ -1,4 +1,5 @@
-# Hi 👋, I'm Adam 
+# Hi 👋, I'm Adam
+
 ## About me:
 I’m a student of Computer Science and Information Systems at the Faculty of Mathematics and Information Sciences at Warsaw University of Technology.
 
@@ -8,6 +9,16 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adamgracikowski&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
 </p>
+
+## 💡 Recent Projects:
+
+| Project | Description | Technologies |
+| ------- | ----------- | ------------ |
+| [PayUpPal](https://github.com/adamgracikowski/PayUpPal) | Modern, full-stack mobile app that makes group expense sharing effortless. Create groups, add expenses, and let its smart debt-minimization algorithm simplify settlements | Flutter, Dart, Firebase Authentication, ASP .NET Core, SQL Server, Microsoft Azure |
+| [NeuroSpeech](https://github.com/adamgracikowski/NeuroSpeech/tree/main) | Project for the Introduction to Machine Learning academic course. It uses a Convolutional Neural Network (CNN) to recognize spoken words from WAV audio recordings | Python, PyTorch, NumGPy, radio, Poetry |
+| [GASudokuSolver](https://github.com/adamgracikowski/GASudokuSolver) | Sudoku solver based on genetic algorithms, with modular customizations of key components of the algorithm | WPF, SkiaSharp, C# |
+| [CarRental](https://github.com/adamgracikowski/CarRental) | Full-stack car rental platform that aggregates rental offers from multiple providers. It features a price comparison tool, allowing users to find the best deals. The app integrates with third-party supplier APIs to fetch real-time availability and pricing | Blazor WebAssembly, MudBlazor, Google Maps, ASP .NET Core, SQL Server, Microsoft Azure, SendGrid |
+
 
 ## Languages and Tools:
 

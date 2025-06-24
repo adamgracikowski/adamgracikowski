@@ -23,7 +23,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 ## Languages and Tools:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&langs_count=10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&langs_count=8&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 ### Backend:

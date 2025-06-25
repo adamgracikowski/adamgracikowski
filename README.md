@@ -41,7 +41,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 
 ### Frontend:
 
-![Frontend](https://skills.syvixor.com/api/icons?raius=25&perline=15&i=html,css,typescript,angular,tilwind,figma)
+![Frontend](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=html,css,typescript,angular,tilwind,figma)
 <!-- 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,ts,angular,tailwind,figma&perline=10" />
@@ -50,7 +50,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 
 ### Mobile:
 
-![Mobile](https://skills.syvixor.com/api/icons?raius=25&perline=15&i=flutter,dart,firebase,androidstudio)
+![Mobile](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=flutter,dart,firebase,androidstudio)
 <!-- 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=10" />
@@ -59,7 +59,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 
 ### Other:
 
-![Other](https://skills.syvixor.com/api/icons?raius=25&perline=15&i=git,github,visualstudio,visualstudioode,azure,postman,raspberrypi)
+![Other](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=git,github,visualstudio,visualstudioode,azure,postman,raspberrypi)
 <!-- 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,azure,postman&perline=10" />
@@ -68,7 +68,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 
 ### Currently I'm learning:
 
-![Learning](https://skills.syvixor.com/api/icons?raius=25&perline=15&i=rust,golang,docker)
+![Learning](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=rust,golang,docker)
 <!-- 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=rust,docker&perline=10" />

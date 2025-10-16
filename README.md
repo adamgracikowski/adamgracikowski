@@ -61,7 +61,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 
 ### Currently I'm learning:
 
-![Learning](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=rust,golang,docker)
+![Learning](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=rust,docker)
 <!-- 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=rust,docker&perline=10" />

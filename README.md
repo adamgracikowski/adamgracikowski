@@ -15,7 +15,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 
 | 🚀 Project | 📝 Description | 🔧 Technologies |
 | ------- | ----------- | ------------ |
-| [MEVA](https://github.com/meva-dev/meva) | **`[UNDER DEVELOPMENT]`** A distributed version control system written in Rust, developed as part of an engineering thesis. | Rust |
+| [MEVA](https://github.com/meva-dev/meva) | A distributed version control system written in Rust, developed as part of an engineering thesis. | Rust |
 | [Database](https://github.com/adamgracikowski/MiNIRust/tree/main/Projects/Project01/database) | A lightweight SQL-like in-memory database engine, featuring a custom Pest grammar that parses queries into a structured AST. The AST is then semantically validated and executed by the engine, powering both the CLI and TUI frontends | Rust, Pest, Ratatui |
 | [PayUpPal](https://github.com/adamgracikowski/PayUpPal) | Modern, full-stack mobile app that makes group expense sharing effortless. Create groups, add expenses, and let its smart debt-minimization algorithm simplify settlements | Flutter, Dart, Firebase Authentication, ASP .NET Core, SQL Server, Microsoft Azure |
 | [NeuroSpeech](https://github.com/adamgracikowski/NeuroSpeech/tree/main) | Project for the Introduction to Machine Learning academic course. It uses a Convolutional Neural Network (CNN) to recognize spoken words from WAV audio recordings | Python, PyTorch, NumPy, Gradio, Poetry |

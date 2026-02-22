@@ -26,7 +26,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 
 ### Backend:
 
-![Backend](https://skills.syvixor.com/api/icons?raius=25&perline=15&i=c,cpp,csharp,python,dotnet,bash,liux,windows,sqlserver,redis,matlab)
+![Backend](https://skills.syvixor.com/api/icons?raius=25&perline=15&i=csharp,rust,cpp,c,python,dotnet,bash,liux,windows,sqlserver,redis,matlab)
 <!-- 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,bash,linux,r,matlab,redis,mysql,sqlite&perline=6" />
@@ -62,7 +62,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 
 ### Currently I'm learning:
 
-![Learning](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=rust,docker)
+![Learning](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=scala,docker)
 <!-- 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=rust,docker&perline=10" />

@@ -1,17 +1,17 @@
-# Hi 👋, I'm Adam
+# Hi there! 👋
 
 ## About me:
-I’m a student of Computer Science and Information Systems at the Faculty of Mathematics and Information Sciences at Warsaw University of Technology.
 
-In my spare time I enjoy running 🏃‍♂️, swimming 🏊‍♂️ and learning foreign languages. \
-On top of that, I love reading books 📚 (lots of them every year 😄).
+- Bachelor’s degree (B.Eng.) in Computer Science and Information Systems from the Faculty of Mathematics and Information Science at the Warsaw University of Technology.
+- Currently pursuing Master's degree in Artificial Intelligence Methods.
+- In my spare time, I enjoy traveling 🌍, running 🏃‍♂️, swimming 🏊‍♂️ and learning foreign languages.
+- On top of that, I love reading books 📚 (lots of them every year 😄).
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adamgracikowski&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&langs_count=8&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=Jupyter%20Notebook" />
+  <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/adamgracikowski?cardType=level&theme=github-dark&fontFamily=&preferLogin=true" />
 </p>
 
-## 💡 Recent Projects:
+## Recent Projects:
 
 | 🚀 Project | 📝 Description | 🔧 Technologies |
 | ------- | ----------- | ------------ |
@@ -22,7 +22,7 @@ On top of that, I love reading books 📚 (lots of them every year 😄).
 | [GASudokuSolver](https://github.com/adamgracikowski/GASudokuSolver) | Sudoku solver based on genetic algorithms, with modular customizations of key components of the algorithm | WPF, SkiaSharp, C# |
 | [CarRental](https://github.com/adamgracikowski/CarRental) | Full-stack car rental platform that aggregates rental offers from multiple providers. It features a price comparison tool, allowing users to find the best deals. The app integrates with third-party supplier APIs to fetch real-time availability and pricing | Blazor WebAssembly, MudBlazor, Google Maps, ASP .NET Core, SQL Server, Microsoft Azure, SendGrid |
 
-## 🖥️ Languages and Tools:
+## Languages and Tools:
 
 ### Backend:
 

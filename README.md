@@ -15,6 +15,7 @@
 
 | 🚀 Project | 📝 Description | 🔧 Technologies |
 | ------- | ----------- | ------------ |
+| [AntColonyOptimization](https://github.com/adamgracikowski/AntColonyOptimization) | Distance-Constrained Capacitated Vehicle Routing Problem (DCVRP) using Ant Colony Optimization. Core in Rust, analysis in Python. | Rust, clap, Python, numpy, pandas, scipy, matplotlib |
 | [MEVA](https://github.com/meva-dev/meva) | A distributed version control system written in Rust, developed as part of an engineering thesis. | Rust, egui, clap, russh |
 | [Database](https://github.com/adamgracikowski/MiNIRust/tree/main/Projects/Project01/database) | A lightweight SQL-like in-memory database engine, featuring a custom Pest grammar that parses queries into a structured AST. The AST is then semantically validated and executed by the engine, powering both the CLI and TUI frontends | Rust, ratatui, clap, pest |
 | [PayUpPal](https://github.com/adamgracikowski/PayUpPal) | Modern, full-stack mobile app that makes group expense sharing effortless. Create groups, add expenses, and let its smart debt-minimization algorithm simplify settlements | Flutter, Dart, Firebase Authentication, ASP .NET Core, SQL Server, Microsoft Azure |

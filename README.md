@@ -1,5 +1,6 @@
 # Hi there! 👋
 
+
 ## About me:
 
 - Bachelor’s degree (B.Eng.) in Computer Science and Information Systems from the Faculty of Mathematics and Information Science at the Warsaw University of Technology.
@@ -23,52 +24,38 @@
 | [GASudokuSolver](https://github.com/adamgracikowski/GASudokuSolver) | Sudoku solver based on genetic algorithms, with modular customizations of key components of the algorithm | WPF, SkiaSharp, C# |
 | [CarRental](https://github.com/adamgracikowski/CarRental) | Full-stack car rental platform that aggregates rental offers from multiple providers. It features a price comparison tool, allowing users to find the best deals. The app integrates with third-party supplier APIs to fetch real-time availability and pricing | Blazor WebAssembly, MudBlazor, Google Maps, ASP .NET Core, SQL Server, Microsoft Azure, SendGrid |
 
-## Languages and Tools:
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-### Backend:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgracikowski&theme=tokyonight&layout=compact&langs_count=8&hide=jupyter%20notebook,matlab&hide_border=true&count_private=true" />
+</p>
 
-![Backend](https://skills.syvixor.com/api/icons?raius=25&perline=15&i=csharp,rust,cpp,c,python,dotnet,bash,liux,windows,sqlserver,redis,matlab)
-<!-- 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,bash,linux,r,matlab,redis,mysql,sqlite&perline=6" />
-</a>
---->
+---
 
-### Frontend:
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?radius=20&perline=8&i=csharp,rust,cpp,c,python,dotnet,bash,linux,windows,sqlserver,redis" />
+</p>
 
-![Frontend](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=html,css,typescript,angular,tilwind,figma)
-<!-- 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,angular,tailwind,figma&perline=10" />
-</a>
---->
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?radius=20&perline=8&i=html,css,typescript,angular,tailwind,figma" />
+</p>
 
-### Mobile:
+<h3 align="center">Mobile</h3>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?radius=20&perline=6&i=flutter,dart,firebase,androidstudio" />
+</p>
 
-![Mobile](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=flutter,dart,firebase,androidstudio)
-<!-- 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=10" />
-</a>
---->
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?radius=20&perline=8&i=git,github,visualstudio,vscode,azure,postman,raspberrypi" />
+</p>
 
-### Other:
-
-![Other](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=git,github,visualstudio,visualstudioode,azure,postman,raspberrypi)
-<!-- 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,azure,postman&perline=10" />
-</a>
---->
-
-### Currently I'm learning:
-
-![Learning](https://skills.syvixor.com/api/icons?radius=25&perline=15&i=scala,docker)
-<!-- 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,docker&perline=10" />
-</a>
---->
+<h3 align="center">Currently Learning</h3>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?radius=20&perline=6&i=scala,docker" />
+</p>
 
 ## 📫 How to reach me:
 ✉️  admgrac@gmail.com

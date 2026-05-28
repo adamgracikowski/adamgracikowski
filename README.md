@@ -16,6 +16,7 @@
 
 | 🚀 Project | 📝 Description | 🔧 Technologies |
 | ------- | ----------- | ------------ |
+| [KnowledgeRepresentation](https://github.com/adamgracikowski/KnowledgeRepresentation) | `[IN PROGRESS]` A reasoning engine with a graphical interface and an action language for modeling dynamic domains. It supports executability, value, and optimal cost queries, enabling users to analyze system behavior and compute efficient action plans using graph-based search algorithms. | C#, Sprache, xUnit, AvaloniaUI, AvaloniaEdit | 
 | [Breakthrough](https://github.com/adamgracikowski/Breakthrough) | `[IN PROGRESS]` Experiments with Monte Carlo Tree Search (MCTS) and its modifications applied to the game [Breakthrough](https://en.wikipedia.org/wiki/Breakthrough_(board_game)). Core in Rust, analysis in Python. | Rust, macroquad, clap, Python, numpy, pandas, scipy, matplotlib, seaborn | 
 | [TSP Approximation](https://github.com/adamgracikowski/tsp-approximation-comparison) | Implementation and comparison of two approximation algorithms for the Metric Traveling Salesman Problem (TSP) | C#, Python, pandas, matplotlib, scipy, numpy |
 | [AntColonyOptimization](https://github.com/adamgracikowski/AntColonyOptimization) | Distance-Constrained Capacitated Vehicle Routing Problem (DCVRP) using Ant Colony Optimization. Core in Rust, analysis in Python. | Rust, clap, Python, numpy, pandas, scipy, matplotlib |
